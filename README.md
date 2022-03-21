@@ -2,7 +2,7 @@
 ![](/readmeimages/pets.png)
 ## Table of Contents
 * [Links](#links)
-* [Introduction](#introduction)
+* [Softwares](#softwares)
 * [Walkthrough](#walkthrough)
 * [Credits](#credits)
 
