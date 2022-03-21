@@ -22,8 +22,6 @@ Pet Petter is a mobile Android clicker-game created with Unity, where you can le
 
 ![](/readmeimages/screencapfour.png)
 
-In order to increase 
-
 In order to increase the amount of PPC and PPS you can spend your coins on the shop panel and upgrade panel. The price is coded in a way to gradually increase along with the amount of each itens you currently have. 
 
 ![](/readmeimages/screencapthree.PNG)
