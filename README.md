@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Links](#links)
 * [Softwares](#softwares)
+* [Introduction](#introduction)
 * [Walkthrough](#walkthrough)
 * [Credits](#credits)
 
@@ -17,8 +18,11 @@
 - Visual Studio 2022
 - Piskel
 
+## Introduction
+Pet Petter is a mobile Android clicker-game created with Unity, where you can level up your pets and discover the different name and sprite combinations. The idea is to explore what makes a game addictive and potentially a habit where the player will comeback to it every day.
+
 ## Walkthrough
-Pet Petter is a mobile Android clicker-game created with Unity, where you can level up your pets and discover the different name and sprite combinations. As a player, the attributes you have are Coins, PPC (Pats-per-click), and PPS (Pats-per-second). You can get coins per second as the game goes on, as well as by patting your pet. In order to have visual elements to give feedback to the player, you find on the main screen of the game an EXPats bar on the current amount of exp you have and each time you click on the pet image, you get both visual and sound feedback.
+As a player, the attributes you have are Coins, PPC (Pats-per-click), and PPS (Pats-per-second). You can get coins per second as the game goes on, as well as by patting your pet. In order to have visual elements to give feedback to the player, you find on the main screen of the game an EXPats bar on the current amount of exp you have and each time you click on the pet image, you get both visual and sound feedback.
 
 ![](/readmeimages/screencapfour.png)
 
