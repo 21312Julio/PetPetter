@@ -5,5 +5,5 @@
 
 ## Links
 - Figma Prototype | https://www.figma.com/file/1XoqBgc3Rh6cbTocTWLMV0/PET-PETTER?node-id=0%3A1
-- Youtube | 
+- Youtube | https://youtu.be/EgCyftsUcEE
 - Android SDK | https://drive.google.com/drive/folders/15XasSi9rXwOU5cJw2OHJJGqWWRxTibaZ?usp=sharing
