@@ -1,5 +1,5 @@
 # PetPetter Final Project for Dorset College - ![chsarp](https://img.shields.io/badge/-csharp-green) ![unity](https://img.shields.io/badge/-unity-lightgrey)
-![](/readmeimages/sprites.PNG)
+![](/readmeimages/pets.png)
 ## Table of Contents
 * [Links](#links)
 * [Introduction](#introduction)
