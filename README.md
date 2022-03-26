@@ -25,9 +25,13 @@
 Pet Petter is a mobile Android clicker-game created with Unity, where you can level up your pets and discover the different name and sprite combinations. The idea is to explore what makes a game addictive and potentially a habit where the player will come back to it every day. In order to create a game for mobile where the 
 elements will keep at the same place no matter the screen size, I used a combination of two scripts linked in the [Credits](#credits) to anchor elements to the 
 main camera.
+
 ![](/readmeimages/changeplatform.jpg)
+
 When downloading the project and opening it on Unity, you must go to File > Build Settings and make sure to change the platform to Android, and hit 'Switch Platform' to keep the ratio, use 18:9 Portrait. The option will only show if you have the Android SDK installed along with your current editor version. Just go to Unity Hub and click on 'Installs' to make sure.
+
 ![](/readmeimages/unityeditor.jpg)
+
 ## Walkthrough
 As a player, the attributes you have are Coins, PPC (Pats-per-click), and PPS (Pats-per-second). You can get coins per second as the game goes on, as well as by patting your pet. In order to have visual elements to give feedback to the player, you find on the main screen of the game an EXPats bar on the current amount of exp you have and each time you click on the pet image, you get both visual and sound feedback.
 
@@ -56,6 +60,7 @@ The second minigame you are helping the manager Bread with his work by calculati
 
 ![](/readmeimages/mathone.jpg)
 ![](/readmeimages/mathtwo.jpg)
+
 ## Bugs
 The game might crash upon being loaded the first time because it won't be able to find a save file to load. Just press play again on the editor and it should work accordingly.
 
