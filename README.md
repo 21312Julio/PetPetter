@@ -6,6 +6,7 @@
 * [Introduction](#introduction)
 * [Walkthrough](#walkthrough)
 * [Minigames](#minigames)
+* [Bugs](#bugs)
 * [Credits](#credits)
 
 ## Links
@@ -55,6 +56,10 @@ The second minigame you are helping the manager Bread with his work by calculati
 
 ![](/readmeimages/mathone.jpg)
 ![](/readmeimages/mathtwo.jpg)
+
+## Bugs
+
+The game might crash upon being loaded the first time because it won't be able to find a save file to load. Just press play again on the editor and it should work accordingly.
 
 ## Credits
 - Background Music by 'super noot ensemble' 🎵 | https://www.youtube.com/watch?v=ox_T5Ia_Y0A
